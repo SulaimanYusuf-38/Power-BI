@@ -66,7 +66,7 @@ The data model uses a classic star schema with relationships between:
 
 | Summary KPI | Customer Detail | Product Performance |
 |-------------|------------------|----------------------|
-| ![Summary Dashboard](screenshots/Summary%20Dashboard.png) | ![Customer Detail](screenshots/Customer%20Detail.png) | ![Product Detail](screenshots/Product%20Detail.png) |
+| ![Summary Dashboard](screenshots/SummaryDashboard.png) | ![Customer Detail](screenshots/Customer%20Detail.png) | ![Product Detail](screenshots/Product%20Detail.png) |
 
 | Return Tree | Key Drivers |
 |-------------|-------------|
